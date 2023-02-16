@@ -2,8 +2,6 @@
   React Image Annotator
 </h2>
 
-=========================
-
 <p align="center">
   A fully featured & easily customizable image annotation library built on React
 </p>
