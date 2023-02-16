@@ -1,14 +1,31 @@
-React Image Annotator
+<h2 align="center">
+  React Image Annotator
+</h2>
+
 =========================
 
-A fully featured & easily customizable image annotation library built on React
-This package is inspired from [react-image-annotation](https://github.com/Secretmapper/react-image-annotation)
-
-
-### Annotation demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafyzg/react-image-annotator/main/demo.gif" alt="react-image-annotator example"/>
+  A fully featured & easily customizable image annotation library built on React
 </p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-image-annotator" alt="npm">
+    <img src="https://img.shields.io/npm/v/react-image-annotator" />
+  </a>
+  <a href="https://github.com/rafyzg/react-image-annotator/blob/main/LICENSE.md" alt="license">
+    <img src="https://img.shields.io/github/license/rafyzg/react-image-annotator" />
+  </a>
+</p>
+
+<p align="center" >
+  <a href="https://rafyzg.github.io/react-image-annotator">
+    <img src="https://raw.githubusercontent.com/rafyzg/react-image-annotator/main/demo.gif" alt="react-image-annotator example" width="600" height="515" />
+  </a>
+</p>
+
+[Docs and Demo](https://rafyzg.github.io/react-image-annotator/).
+
+Inspired by [react-image-annotation](https://github.com/Secretmapper/react-image-annotation).
 
 ## Installation
 
